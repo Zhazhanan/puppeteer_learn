@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "puppeteer": "^1.15.0"
+    "express": "^4.16.4",
+    "puppeteer": "^1.15.0",
+    "webpage": "^0.3.0"
   }
 }
